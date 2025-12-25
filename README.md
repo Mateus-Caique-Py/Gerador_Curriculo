@@ -75,6 +75,8 @@ cd SEU_REPOSITORIO
 curriculo_petshop_exemplo.pdf
 
 ```
+---
+
 ## 🧩 Personalização do Currículo
 
 Toda a personalização pode ser feita diretamente no arquivo curriculo_abnt.py.
@@ -93,6 +95,8 @@ Você pode alterar facilmente:
 
 Cada seção está claramente separada no código, tornando a manutenção simples e intuitiva.
 
+---
+
 ## 📚 Padrões e Boas Práticas
 
   Docstrings seguindo o PEP 257
@@ -105,9 +109,11 @@ Cada seção está claramente separada no código, tornando a manutenção simpl
 
   Classe personalizada estendendo FPDF para rodapé e paginação
 
-## 👤 Autor
+---
 
-Desenvolvido por Mateus Caique
+## 👨‍💻 Autor
 
-Se este projeto foi útil para você, considere deixar uma ⭐ no repositório!
+Desenvolvido por **Mateus Caique**
+🔗 GitHub: [https://github.com/Mateus-Caique-Py](https://github.com/Mateus-Caique-Py)
+
 
