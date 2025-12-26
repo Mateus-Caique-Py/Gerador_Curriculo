@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![FPDF](https://img.shields.io/badge/FPDF-PDF%20Generator-green.svg)
-![License](https://img.shields.io/github/license/Mateus-Caique-Py/Gerador_Curriculo)
+
 ![Last Commit](https://img.shields.io/github/last-commit/Mateus-Caique-Py/Gerador_Curriculo)
 ![Repo Size](https://img.shields.io/github/repo-size/Mateus-Caique-Py/Gerador_Curriculo)
 ![Stars](https://img.shields.io/github/stars/Mateus-Caique-Py/Gerador_Curriculo?style=social)
