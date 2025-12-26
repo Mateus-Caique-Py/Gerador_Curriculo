@@ -103,15 +103,15 @@ Toda a personalização pode ser feita diretamente no arquivo curriculo_abnt.py.
 
 Você pode alterar facilmente:
 
-  Nome e informações de contato
+- Nome e informações de contato
 
-  Resumo profissional
+- Resumo profissional
 
-  Formação acadêmica
+- Formação acadêmica
 
-  Experiência profissional
+- Experiência profissional
 
-  Habilidades, cursos e certificações
+- Habilidades, cursos e certificações
 
 Cada seção está claramente separada no código, tornando a manutenção simples e intuitiva.
 
@@ -119,15 +119,15 @@ Cada seção está claramente separada no código, tornando a manutenção simpl
 
 ## 📚 Padrões e Boas Práticas
 
-  Docstrings seguindo o PEP 257
+- Docstrings seguindo o PEP 257
 
-  Código organizado e bem documentado
+- Código organizado e bem documentado
 
-  Separação lógica das seções do currículo
+- Separação lógica das seções do currículo
 
-  Tratamento de caracteres especiais usando codificação latin-1
+- Tratamento de caracteres especiais usando codificação latin-1
 
-  Classe personalizada estendendo FPDF para rodapé e paginação
+- Classe personalizada estendendo FPDF para rodapé e paginação
 
 ---
 
