@@ -13,6 +13,26 @@ O objetivo é fornecer um modelo de currículo limpo, profissional, padronizado 
 
 ---
 
+## 📌 Sobre o Projeto
+
+Este projeto foi desenvolvido com o objetivo de **formatar e gerar currículos profissionais em PDF** a partir das informações inseridas diretamente no código, seguindo os **padrões de layout mais utilizados no mercado**, com especial atenção às **normas ABNT**.
+
+A iniciativa surgiu como uma alternativa **simples, transparente e totalmente gratuita**, evitando o uso de **ferramentas pagas de Inteligência Artificial** que se propõem a criar currículos automaticamente. Dessa forma, o usuário mantém **controle total sobre o conteúdo, a estrutura e a formatação** do documento final, sem depender de plataformas externas ou modelos fechados.
+
+O projeto também tem caráter educacional e demonstrativo, servindo como exemplo de boas práticas em Python, organização de código e geração de documentos PDF.
+
+---
+
+## 📌 About the Project
+
+This project was developed with the purpose of **formatting and generating professional resumes in PDF format** based on information directly provided in the source code, following the **most commonly used resume layout standards**, with special attention to **ABNT formatting guidelines**.
+
+The initiative aims to provide a **simple, transparent, and completely free alternative**, avoiding the use of **paid Artificial Intelligence tools** that claim to automatically generate resumes. This approach ensures **full control over content, structure, and formatting**, without relying on external platforms or proprietary templates.
+
+Additionally, this project has an educational and demonstrative purpose, serving as an example of Python best practices, clean code organization, and PDF document generation.
+
+---
+
 ## ✨ Funcionalidades
 
 - Geração automática de currículo em **PDF**
