@@ -111,6 +111,13 @@ Cada seção está claramente separada no código, tornando a manutenção simpl
 
 ---
 
+## 📄 Licença
+
+Este projeto está sob a licença **MIT**.
+Sinta-se livre para usar, modificar e distribuir.
+
+---
+
 ## 👨‍💻 Autor
 
 Desenvolvido por **Mateus Caique**
